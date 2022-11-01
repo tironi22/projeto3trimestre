@@ -1,0 +1,102 @@
+body{
+
+    background-color: rgb(247, 0, 255);
+    
+    }
+     
+    .wrapper{
+    
+    height: 420px;
+    width: 654px;
+    margin: 50 auto;1emgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
+    -box-shadow: 0px 14px 32px 0px  rgba(0,0,0,0.15);
+    
+    }
+        
+    #camile {
+    float: left;
+    height: 420px;
+    width: 327px;
+    }
+
+    
+.egeodolce h1{
+    margin: 0 0 0 0 38px;
+    padding-top: 1px;
+    font-size: 34px;
+    color:deeppink;
+}
+
+.egeodolce h1,
+.egodolce p {
+    font-family:'benthmam'; serif;
+}
+
+.egeodolce h2{
+    margin: 0 0 47px 38px;
+    font-size: 13px;
+    font-family: 'releway',sans-serif;
+    font-weight: 400px;
+    text-transform: uppercase;
+    color: fuchsia;
+}
+
+.egeodolce p{
+    height: 225px;
+    padding-bottom: 100px;
+    margin: 0 0 0 47px 38px;
+    font-family: 'playfair display', serif;
+    margin: 0 0 0 0 50px;
+    font-size: 20px;
+    font-weight: lighter;
+    color: darkmagenta;
+
+
+}
+
+span{
+
+    display: inline-block;
+    height: 110px;
+    margin: auto;
+    font-family: 'suranna' , serif;
+     font-size: 34px;
+
+}
+
+.botaopreco button {   
+
+    float: right;
+    display: inline-block;
+    height: 50px;
+    width: 176px;
+    margin: 0 60px; 0 16px;
+    box-sizing: border-box;
+    border: transparent;
+    border-radius: 60px;
+    font-family: 'releway' , sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0. 2em;
+    color:
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+    
